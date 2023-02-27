@@ -1,0 +1,39 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Continue a codar... continue a codar...",
+      "autoria": "Dory programadora",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 4,
+      "conteudo": "Testando função de editar",
+      "autoria": "Angular ",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 5,
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Yoda",
+      "modelo": "modelo1",
+      "favorito": true
+    }
+  ]
+}
