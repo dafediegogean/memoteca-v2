@@ -17,6 +17,7 @@
             <button routerLink="/criarPensamento" class="botao">Novo pensamento</button>
         </div>
     </header>
+    <!-- linha abaixo opcionak para o tratamento conforme abaixo -->
     <!-- *ngIf="pensamentos.length > 0; else semPensamentos -->
     <div class="mural" *ngIf="isPensamento(); else semPensamentos">
         <div *ngFor="let pensamento of pensamentos">
